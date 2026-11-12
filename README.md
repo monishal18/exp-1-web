@@ -1,6 +1,6 @@
 # EXP 1 – React Lab Exercise: Understanding React File Structure
 
-## NAME:Monisha
+## NAME:Monisha L
 
 ## REG NO:2305001019
 
